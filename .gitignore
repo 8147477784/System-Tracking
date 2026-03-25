@@ -1,0 +1,19 @@
+# Node.js
+
+# Install dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Operating System files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-
